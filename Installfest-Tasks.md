@@ -3,7 +3,7 @@ _Remember that you have tons of volunteers eager to help, allow them to help by 
 ### <a name="installspace"/>Setting up a good Installfest space
 * Post the wireless SSID & password often and visibly. 
 * Post the installfest link as well, as many people will have ignored instructions and will need to install it when they get there. 
-* Power outlets will guide how the space is set up, but RailsBridge's rolling chest of power cords should help with. The Installfest should be one big room with different tables, ideally marked with OSs so that folks with similar issues can help each other. (This usually means getting more granular than just Mac/Linux/PC and breaking out older Mac OSs into their own pods.)
+* Power outlets will guide how the space is set up. The Installfest should be one big room with different tables.
 
 ### <a name="welcomedesk" id="welcome_desk"></a> Welcome desk with class level confirmation
 * People will show up early. Sometimes 30 minutes early. Be ready. Depending on the space you are in, it's easy to let people slip by without checking in. Don't let them!  It helps to have signage stating that everyone, including volunteers, needs to check in and make a name tag. 
